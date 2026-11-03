@@ -17,7 +17,7 @@ Why the extra pieces beyond stock BepInEx:
 """
 from __future__ import annotations
 
-import io
+import json
 import zipfile
 from pathlib import Path
 
@@ -51,6 +51,13 @@ def build_apworld() -> Path:
         for f in sorted(WORLD.rglob("*")):
             rel = f.relative_to(WORLD)
             if f.is_dir() or "__pycache__" in rel.parts or rel.parts[0] == "test" or f.suffix == ".pyc":
+                continue
+            if rel.as_posix() == "archipelago.json":
+                # The source manifest must not carry container versions (AP's manifest test), but the
+                # .apworld container needs them, as AP's own "Build APWorlds" adds.
+                manifest = json.loads(f.read_text(encoding="utf-8"))
+                manifest.update(version=7, compatible_version=7)
+                z.writestr("cozy_cleaner/archipelago.json", json.dumps(manifest, indent="\t"))
                 continue
             z.write(f, "cozy_cleaner/" + rel.as_posix())
     return out
