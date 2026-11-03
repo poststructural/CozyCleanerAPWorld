@@ -22,6 +22,22 @@ To remove the mod, delete `version.dll`, `doorstop_config.ini`, `.doorstop_versi
 
 ## Install on macOS
 
+### With the installer (easiest)
+
+1. Double-click `CozyCleanerAP-Mac.zip` to extract it, anywhere (Downloads is fine).
+2. In the extracted folder, right-click `Install Cozy Cleaner AP.command` and choose **Open**, then **Open** again.
+   (On macOS 15 or newer, if it is still blocked, go to **System Settings > Privacy & Security** and click
+   **Open Anyway**. Or open Terminal and run `bash ` followed by dragging the file into the window.)
+3. The installer finds the game in your Steam library (or asks you to pick the folder), copies the mod in,
+   clears the macOS download block, installs Rosetta on Apple Silicon if needed, and copies the Steam launch
+   option to your clipboard.
+4. In Steam, right-click Cozy Cleaner, choose **Properties > General**, click in **Launch Options** and paste
+   (Cmd+V). Start the game from Steam.
+
+To remove the mod, run the installer from Terminal with `--uninstall` and clear the launch option.
+
+### By hand
+
 1. Extract `CozyCleanerAP-Mac.zip` into the game folder, so that `run_bepinex.sh` and the `BepInEx` folder sit
    next to `Cozy Cleaner.app`.
 2. Open Terminal in that folder and run:

@@ -34,6 +34,8 @@ CORLIBS = [
     "Mono.Posix.dll", "Microsoft.CSharp.dll",
 ]
 
+MAC_INSTALLER = "Install Cozy Cleaner AP.command"
+
 BEPINEX_CFG = """[Logging]
 
 ## Cozy Cleaner's stripped engine cannot run BepInEx's Unity log listener, so it stays off.
@@ -99,6 +101,13 @@ def build_mac() -> Path:
             zi.compress_type = zipfile.ZIP_DEFLATED
             z.writestr(zi, data)
         add_common(z, DL / "classlibs" / "unityjit-macos")
+        # Double-clickable installer: copies the files into the Steam game folder, clears quarantine,
+        # checks Rosetta and puts the Steam launch option on the clipboard.
+        installer = ROOT / "tools" / "mac" / MAC_INSTALLER
+        zi = zipfile.ZipInfo(MAC_INSTALLER, date_time=(2026, 11, 3, 0, 0, 0))
+        zi.external_attr = 0o755 << 16
+        zi.compress_type = zipfile.ZIP_DEFLATED
+        z.writestr(zi, installer.read_bytes().replace(b"\r\n", b"\n"))
     return out
 
 
