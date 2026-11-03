@@ -1,0 +1,2159 @@
+{
+ "2": [
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 19,
+    "sceneToLoadName": "12",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 33,
+    "sceneToLoadName": "23",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 23,
+    "sceneToLoadName": "mini_game_2 1",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 25,
+    "sceneToLoadName": "18",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 7,
+    "sceneToLoadName": "5",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 34,
+    "sceneToLoadName": "28",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 26,
+    "sceneToLoadName": "22",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 31,
+    "sceneToLoadName": "24",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 10,
+    "sceneToLoadName": "7",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 36,
+    "sceneToLoadName": "30",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 32,
+    "sceneToLoadName": "27",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 1,
+    "sceneToLoadName": "Tutorial",
+    "cameraFocusPoint": null,
+    "isLocked": 0,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 3,
+    "sceneToLoadName": "2",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 9,
+    "sceneToLoadName": "19",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 0,
+    "sceneToLoadName": "",
+    "cameraFocusPoint": null,
+    "isLocked": 0,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 1
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 14,
+    "sceneToLoadName": "10",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 29,
+    "sceneToLoadName": "25",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 16,
+    "sceneToLoadName": "17",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 8,
+    "sceneToLoadName": "6",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 18,
+    "sceneToLoadName": "11",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 5,
+    "sceneToLoadName": "mini_game_1",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 35,
+    "sceneToLoadName": "29",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 27,
+    "sceneToLoadName": "26",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 15,
+    "sceneToLoadName": "16",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 20,
+    "sceneToLoadName": "13",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 4,
+    "sceneToLoadName": "4",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 17,
+    "sceneToLoadName": "mini_game_3",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 22,
+    "sceneToLoadName": "14",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "level_controller",
+   "fields": {
+    "m_Name": "",
+    "currentLevelID": 0,
+    "isTutorialLevel": 0,
+    "completionPanel": null,
+    "gameCanvas": null,
+    "nextLevelButton": null,
+    "storeButton": null,
+    "GecisEffect": null,
+    "progressBar": null,
+    "rewardText": null,
+    "countDuration": 1.5,
+    "isDemo": 0,
+    "demoEndSceneName": "ThanksForDemo",
+    "demoLastLevel": 5,
+    "isLastLevel": 0,
+    "lastLevelSceneName": "CreditsScene",
+    "isMiniGame": 0,
+    "dialogueManager": null,
+    "finishDialogue": [],
+    "miniGameNextScene": "LevelSelectScene",
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 12,
+    "sceneToLoadName": "8",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 13,
+    "sceneToLoadName": "9",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 21,
+    "sceneToLoadName": "15",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 6,
+    "sceneToLoadName": "3",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 24,
+    "sceneToLoadName": "20",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 28,
+    "sceneToLoadName": "21",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 1,
+    "stage2Price": 400,
+    "stage3Price": 800,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 30,
+    "sceneToLoadName": "mini_game_5",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 2,
+    "sceneToLoadName": "1",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "LevelHouse",
+   "fields": {
+    "m_Name": "",
+    "levelIndex": 11,
+    "sceneToLoadName": "mini_game_4",
+    "cameraFocusPoint": null,
+    "isLocked": 1,
+    "myUIPanel": null,
+    "unlockedObject": null,
+    "lockedObject": null,
+    "levelPathAnimator": null,
+    "isStore": 0
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 2,
+    "stage2Price": 250,
+    "stage3Price": 500,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 5,
+    "stage2Price": 400,
+    "stage3Price": 800,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 4,
+    "stage2Price": 250,
+    "stage3Price": 500,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 6,
+    "stage2Price": 250,
+    "stage3Price": 500,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 3,
+    "stage2Price": 400,
+    "stage3Price": 800,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ShopToolManager",
+   "fields": {
+    "m_Name": "",
+    "allTools": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "toolCosts": [],
+    "activateOnlyUnlockedTools": 0,
+    "autoRepairDesyncedSave": 1,
+    "useCostTableAsSourceOfTruth": 1,
+    "maxWaitFrames": 120,
+    "logShop": 0
+   }
+  }
+ ],
+ "7": [
+  {
+   "class": "level_controller",
+   "fields": {
+    "m_Name": "",
+    "currentLevelID": 5,
+    "isTutorialLevel": 0,
+    "completionPanel": null,
+    "gameCanvas": null,
+    "nextLevelButton": null,
+    "storeButton": null,
+    "GecisEffect": null,
+    "progressBar": null,
+    "rewardText": null,
+    "countDuration": 1.5,
+    "isDemo": 0,
+    "demoEndSceneName": "ThanksForDemo",
+    "demoLastLevel": 5,
+    "isLastLevel": 0,
+    "lastLevelSceneName": "CreditsScene",
+    "isMiniGame": 1,
+    "dialogueManager": null,
+    "finishDialogue": [
+     {
+      "localizedText": {}
+     },
+     {
+      "localizedText": {}
+     }
+    ],
+    "miniGameNextScene": "3",
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "CleaningProgressForRecycling",
+   "fields": {
+    "m_Name": "",
+    "progressSlider": null,
+    "fillImage": null,
+    "progressText": null,
+    "fillSpeed": 5.0,
+    "iconPopScaleMultiplier": 1.399999976158142,
+    "iconPopDuration": 0.15000000596046448,
+    "customIcon": null,
+    "trashTag": "Trash",
+    "completionText": null
+   }
+  },
+  {
+   "class": "RecyclingSpawnManager",
+   "fields": {
+    "m_Name": "",
+    "dialogueManager": null,
+    "spawnTypes": [
+     {
+      "itemType": 0,
+      "prefabs": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "spawnCount": 10
+     },
+     {
+      "itemType": 1,
+      "prefabs": [
+       null,
+       null,
+       null
+      ],
+      "spawnCount": 5
+     },
+     {
+      "itemType": 2,
+      "prefabs": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "spawnCount": 10
+     },
+     {
+      "itemType": 4,
+      "prefabs": [
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "spawnCount": 10
+     }
+    ],
+    "spawnPoint": null,
+    "endPoint": null,
+    "spawnDelay": 3.0,
+    "randomOffsetX": 0.5,
+    "randomOffsetZ": 0.5,
+    "progressUI": null
+   }
+  }
+ ],
+ "13": [
+  {
+   "class": "level_controller",
+   "fields": {
+    "m_Name": "",
+    "currentLevelID": 11,
+    "isTutorialLevel": 0,
+    "completionPanel": null,
+    "gameCanvas": null,
+    "nextLevelButton": null,
+    "storeButton": null,
+    "GecisEffect": null,
+    "progressBar": null,
+    "rewardText": null,
+    "countDuration": 1.5,
+    "isDemo": 0,
+    "demoEndSceneName": "ThanksForDemo",
+    "demoLastLevel": 5,
+    "isLastLevel": 0,
+    "lastLevelSceneName": "CreditsScene",
+    "isMiniGame": 1,
+    "dialogueManager": null,
+    "finishDialogue": [
+     {
+      "localizedText": {}
+     }
+    ],
+    "miniGameNextScene": "8",
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "CleaningProgressForFlower",
+   "fields": {
+    "m_Name": "",
+    "progressSlider": null,
+    "fillImage": null,
+    "progressText": null,
+    "fillSpeed": 5.0,
+    "iconPopScaleMultiplier": 1.399999976158142,
+    "iconPopDuration": 0.15000000596046448,
+    "customIcon": null,
+    "targetStepCount": 42,
+    "countHoeing": 1,
+    "countSeedling": 1,
+    "countFlowerGrown": 1,
+    "countTrashDisposal": 1,
+    "countObjectPlacement": 1,
+    "countFlowerWatering": 1,
+    "unlockWateringCanOnComplete": 1
+   }
+  }
+ ],
+ "19": [
+  {
+   "class": "level_controller",
+   "fields": {
+    "m_Name": "",
+    "currentLevelID": 17,
+    "isTutorialLevel": 0,
+    "completionPanel": null,
+    "gameCanvas": null,
+    "nextLevelButton": null,
+    "storeButton": null,
+    "GecisEffect": null,
+    "progressBar": null,
+    "rewardText": null,
+    "countDuration": 1.5,
+    "isDemo": 0,
+    "demoEndSceneName": "ThanksForDemo",
+    "demoLastLevel": 5,
+    "isLastLevel": 0,
+    "lastLevelSceneName": "CreditsScene",
+    "isMiniGame": 1,
+    "dialogueManager": null,
+    "finishDialogue": [
+     {
+      "localizedText": {}
+     },
+     {
+      "localizedText": {}
+     }
+    ],
+    "miniGameNextScene": "11",
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "CleaningProgressDirty",
+   "fields": {
+    "m_Name": "",
+    "progressSlider": null,
+    "fillImage": null,
+    "progressText": null,
+    "fillSpeed": 5.0,
+    "iconPopScaleMultiplier": 1.399999976158142,
+    "iconPopDuration": 0.15000000596046448,
+    "customIcon": null,
+    "dirtyTag": "Dirty",
+    "completionText": null,
+    "completionMessage": "All clean!",
+    "triggerLevelCompletion": 1
+   }
+  }
+ ],
+ "25": [
+  {
+   "class": "level_controller",
+   "fields": {
+    "m_Name": "",
+    "currentLevelID": 23,
+    "isTutorialLevel": 0,
+    "completionPanel": null,
+    "gameCanvas": null,
+    "nextLevelButton": null,
+    "storeButton": null,
+    "GecisEffect": null,
+    "progressBar": null,
+    "rewardText": null,
+    "countDuration": 1.5,
+    "isDemo": 0,
+    "demoEndSceneName": "ThanksForDemo",
+    "demoLastLevel": 5,
+    "isLastLevel": 0,
+    "lastLevelSceneName": "CreditsScene",
+    "isMiniGame": 1,
+    "dialogueManager": null,
+    "finishDialogue": [
+     {
+      "localizedText": {}
+     },
+     {
+      "localizedText": {}
+     }
+    ],
+    "miniGameNextScene": "20",
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "CleaningProgressForRepair",
+   "fields": {
+    "m_Name": "",
+    "progressSlider": null,
+    "fillImage": null,
+    "progressText": null,
+    "fillSpeed": 5.0,
+    "iconPopScaleMultiplier": 1.399999976158142,
+    "iconPopDuration": 0.15000000596046448,
+    "customIcon": null,
+    "useManualTotalCount": 0,
+    "manualTotalPieces": 29,
+    "levelReward": 100,
+    "completionText": null,
+    "completionMessage": "All items have been repaired!",
+    "verboseLogs": 0
+   }
+  },
+  {
+   "class": "RepairSetQueue",
+   "fields": {
+    "m_Name": "",
+    "dialogueManager": null,
+    "sets": [
+     {
+      "setName": "vantilat\u00f6r",
+      "emptyBox": null,
+      "objectsToActivateAfterBoxOpens": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "onSetStarted": {},
+      "onBoxOpened": {},
+      "boxHasBeenOpened": 0
+     },
+     {
+      "setName": "coffee",
+      "emptyBox": null,
+      "objectsToActivateAfterBoxOpens": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "onSetStarted": {},
+      "onBoxOpened": {},
+      "boxHasBeenOpened": 0
+     },
+     {
+      "setName": "radio",
+      "emptyBox": null,
+      "objectsToActivateAfterBoxOpens": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "onSetStarted": {},
+      "onBoxOpened": {},
+      "boxHasBeenOpened": 0
+     },
+     {
+      "setName": "console",
+      "emptyBox": null,
+      "objectsToActivateAfterBoxOpens": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "onSetStarted": {},
+      "onBoxOpened": {},
+      "boxHasBeenOpened": 0
+     },
+     {
+      "setName": "tv",
+      "emptyBox": null,
+      "objectsToActivateAfterBoxOpens": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "onSetStarted": {},
+      "onBoxOpened": {},
+      "boxHasBeenOpened": 0
+     }
+    ],
+    "deactivateAllOnAwake": 1,
+    "activateContentsWithBox": 1,
+    "lockPiecesUntilBoxOpened": 1,
+    "onAllSetsCompleted": {},
+    "debugLogs": 1
+   }
+  }
+ ],
+ "32": [
+  {
+   "class": "level_controller",
+   "fields": {
+    "m_Name": "",
+    "currentLevelID": 30,
+    "isTutorialLevel": 0,
+    "completionPanel": null,
+    "gameCanvas": null,
+    "nextLevelButton": null,
+    "storeButton": null,
+    "GecisEffect": null,
+    "progressBar": null,
+    "rewardText": null,
+    "countDuration": 1.5,
+    "isDemo": 0,
+    "demoEndSceneName": "ThanksForDemo",
+    "demoLastLevel": 5,
+    "isLastLevel": 0,
+    "lastLevelSceneName": "CreditsScene",
+    "isMiniGame": 1,
+    "dialogueManager": null,
+    "finishDialogue": [
+     {
+      "localizedText": {}
+     },
+     {
+      "localizedText": {}
+     }
+    ],
+    "miniGameNextScene": "24",
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "LawnCleaningProgress",
+   "fields": {
+    "m_Name": "",
+    "sliderFillSpeed": 5.0,
+    "progressSlider": null,
+    "progressIcon": null,
+    "iconPopScaleMultiplier": 1.399999976158142,
+    "iconPopDuration": 0.15000000596046448,
+    "firstHalfSounds": [],
+    "secondHalfSounds": [],
+    "giveReward": 1,
+    "levelReward": 0,
+    "triggerGlobalCleaningComplete": 1,
+    "onComplete": {}
+   }
+  }
+ ],
+ "4": [
+  {
+   "class": "level_controller",
+   "fields": {
+    "m_Name": "",
+    "currentLevelID": 2,
+    "isTutorialLevel": 0,
+    "completionPanel": null,
+    "gameCanvas": null,
+    "nextLevelButton": null,
+    "storeButton": null,
+    "GecisEffect": null,
+    "progressBar": null,
+    "rewardText": null,
+    "countDuration": 1.5,
+    "isDemo": 0,
+    "demoEndSceneName": "",
+    "demoLastLevel": 6,
+    "isLastLevel": 0,
+    "lastLevelSceneName": "CreditsScene",
+    "isMiniGame": 0,
+    "dialogueManager": null,
+    "finishDialogue": [],
+    "miniGameNextScene": "LevelSelectScene",
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "CleaningProgress",
+   "fields": {
+    "m_Name": "",
+    "sliderFillSpeed": 5.0,
+    "barTransitionDuration": 0.5,
+    "iconPopScaleMultiplier": 1.399999976158142,
+    "iconPopDuration": 0.15000000596046448,
+    "stage1Icon": null,
+    "stage2Icon": null,
+    "stage3Icon": null,
+    "stage1Slider": null,
+    "stage2Slider": null,
+    "stage3Slider": null,
+    "stage1Objects": [],
+    "stage2Objects": [],
+    "stage3Objects": [],
+    "dropzones": [],
+    "stage1Container": null,
+    "stage2Container": null,
+    "broomCollider": null,
+    "fogParticleSystem": null,
+    "maxEmissionRate": 8.0,
+    "minEmissionRate": 0.0,
+    "dirtSprites": [],
+    "minAlpha": 0.0,
+    "firstHalfSounds": [
+     null,
+     null
+    ],
+    "secondHalfSounds": [
+     null
+    ],
+    "SupurgeAnimator": null,
+    "stage2OutlineObjects": [],
+    "dropZoneActive": 1,
+    "levelReward": 130,
+    "stage1HintThreshold": 0.8999999761581421,
+    "stage1HintIdleTimeout": 30.0,
+    "stage1HintScaleMultiplier": 1.2000000476837158,
+    "stage1HintScaleDuration": 0.44999998807907104,
+    "stage1HintStagger": 0.07999999821186066
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 2,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 5,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 4,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 6,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 3,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ShopToolManager",
+   "fields": {
+    "m_Name": "",
+    "allTools": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "toolCosts": [],
+    "activateOnlyUnlockedTools": 0,
+    "autoRepairDesyncedSave": 1,
+    "useCostTableAsSourceOfTruth": 1,
+    "maxWaitFrames": 120,
+    "logShop": 0
+   }
+  },
+  {
+   "class": "ShopToolManager",
+   "fields": {
+    "m_Name": "",
+    "allTools": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "toolCosts": [],
+    "activateOnlyUnlockedTools": 0,
+    "autoRepairDesyncedSave": 1,
+    "useCostTableAsSourceOfTruth": 1,
+    "maxWaitFrames": 120,
+    "logShop": 0
+   }
+  }
+ ],
+ "38": [
+  {
+   "class": "level_controller",
+   "fields": {
+    "m_Name": "",
+    "currentLevelID": 36,
+    "isTutorialLevel": 0,
+    "completionPanel": null,
+    "gameCanvas": null,
+    "nextLevelButton": null,
+    "storeButton": null,
+    "GecisEffect": null,
+    "progressBar": null,
+    "rewardText": null,
+    "countDuration": 1.5,
+    "isDemo": 0,
+    "demoEndSceneName": "ThanksForDemo",
+    "demoLastLevel": 6,
+    "isLastLevel": 1,
+    "lastLevelSceneName": "ThanksForGame",
+    "isMiniGame": 0,
+    "dialogueManager": null,
+    "finishDialogue": [],
+    "miniGameNextScene": "LevelSelectScene",
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "CleaningProgress",
+   "fields": {
+    "m_Name": "",
+    "sliderFillSpeed": 5.0,
+    "barTransitionDuration": 0.5,
+    "iconPopScaleMultiplier": 1.399999976158142,
+    "iconPopDuration": 0.15000000596046448,
+    "stage1Icon": null,
+    "stage2Icon": null,
+    "stage3Icon": null,
+    "stage1Slider": null,
+    "stage2Slider": null,
+    "stage3Slider": null,
+    "stage1Objects": [],
+    "stage2Objects": [],
+    "stage3Objects": [],
+    "dropzones": [],
+    "stage1Container": null,
+    "stage2Container": null,
+    "broomCollider": null,
+    "fogParticleSystem": null,
+    "maxEmissionRate": 8.0,
+    "minEmissionRate": 0.0,
+    "dirtSprites": [],
+    "minAlpha": 0.0,
+    "firstHalfSounds": [
+     null,
+     null
+    ],
+    "secondHalfSounds": [
+     null
+    ],
+    "SupurgeAnimator": null,
+    "stage2OutlineObjects": [],
+    "dropZoneActive": 1,
+    "levelReward": 420,
+    "stage1HintThreshold": 0.8999999761581421,
+    "stage1HintIdleTimeout": 30.0,
+    "stage1HintScaleMultiplier": 1.2000000476837158,
+    "stage1HintScaleDuration": 0.44999998807907104,
+    "stage1HintStagger": 0.07999999821186066
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 2,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 5,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 4,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 6,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ToolUpgradeButton",
+   "fields": {
+    "m_Name": "",
+    "toolType": 3,
+    "stage2Price": 100,
+    "stage3Price": 250,
+    "button": null,
+    "label": null,
+    "lockIcon": null,
+    "iconStage1GameObject": null,
+    "iconStage2GameObject": null,
+    "iconStage3GameObject": null,
+    "localizedLabelText": {},
+    "tooltipPanel": null,
+    "tooltipTitleText": null,
+    "tooltipDescText": null,
+    "tooltipPriceText": null,
+    "targetPanelScale": 6.872374057769775,
+    "affordablePriceColor": {
+     "r": 1.0,
+     "g": 1.0,
+     "b": 1.0,
+     "a": 1.0
+    },
+    "unaffordablePriceColor": {
+     "r": 1.0,
+     "g": 0.6000000238418579,
+     "b": 0.6800000071525574,
+     "a": 1.0
+    },
+    "tooltipIconStage1": null,
+    "tooltipIconStage2": null,
+    "tooltipIconStage3": null,
+    "defaultTitleStage2": "Seviye 2",
+    "localizedTitleStage2": {},
+    "defaultTitleStage3": "Seviye 3",
+    "localizedTitleStage3": {},
+    "defaultTitleMax": "Maksimum",
+    "localizedTitleMax": {},
+    "defaultDescStage2": "A\u00e7\u0131klama 2...",
+    "localizedDescStage2": {},
+    "defaultDescStage3": "A\u00e7\u0131klama 3...",
+    "localizedDescStage3": {},
+    "defaultDescMax": "Bu alet son seviyede!",
+    "localizedDescMax": {},
+    "defaultGoldWord": "Alt\u0131n",
+    "localizedGoldWord": {},
+    "defaultMaxPriceWord": "Maks. Seviye",
+    "localizedMaxPriceWord": {},
+    "references": {
+     "version": 2,
+     "RefIds": []
+    }
+   }
+  },
+  {
+   "class": "ShopToolManager",
+   "fields": {
+    "m_Name": "",
+    "allTools": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "toolCosts": [],
+    "activateOnlyUnlockedTools": 0,
+    "autoRepairDesyncedSave": 1,
+    "useCostTableAsSourceOfTruth": 1,
+    "maxWaitFrames": 120,
+    "logShop": 0
+   }
+  },
+  {
+   "class": "ShopToolManager",
+   "fields": {
+    "m_Name": "",
+    "allTools": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "toolCosts": [],
+    "activateOnlyUnlockedTools": 0,
+    "autoRepairDesyncedSave": 1,
+    "useCostTableAsSourceOfTruth": 1,
+    "maxWaitFrames": 120,
+    "logShop": 0
+   }
+  }
+ ]
+}

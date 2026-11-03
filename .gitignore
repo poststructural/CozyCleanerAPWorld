@@ -1,0 +1,17 @@
+# Game copy and decompiled game code (never commit)
+Cozy Cleaner/
+research/decomp/
+BepInEx/
+
+# Runtime bridge, build output, logs
+bridge/
+plugin/**/bin/
+plugin/**/obj/
+*.log
+__pycache__/
+*.pyc
+tools/downloads/
+
+# Built release files (published as GitHub release assets) and internal review notes
+release/
+docs/codex_*

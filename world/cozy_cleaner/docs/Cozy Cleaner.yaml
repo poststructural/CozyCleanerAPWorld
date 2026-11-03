@@ -1,0 +1,24 @@
+name: PlayerName
+description: Cozy Cleaner Archipelago template.
+
+game: Cozy Cleaner
+Cozy Cleaner:
+  # final_level: complete Level 36. levels_completed: complete levels_needed levels (tutorial excluded).
+  goal: final_level
+  levels_needed: 25
+
+  # off / milestones (25, 50, 75, 100 percent) / every_object
+  cleansanity: every_object
+  # off / milestones / every_unit (the lawn is grouped in tens unless lawn_every_cut)
+  minigamesanity: every_unit
+  lawn_every_cut: false
+
+  stagesanity: true
+  shopsanity: true
+  achievementsanity: true
+
+  # Shuffle Dustpan, Mop and Vacuum into the pool.
+  toolsanity: false
+
+  # Each Money Bundle gives 50 x this (1-10).
+  money_multiplier: 1
