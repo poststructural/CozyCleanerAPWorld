@@ -11,6 +11,10 @@
       <HintPath>$(BepInExCore)\Mono.Cecil.dll</HintPath>
       <Private>false</Private>
     </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>$(BepInExCore)\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
   </ItemGroup>
   <Target Name="CopyToRelease" AfterTargets="Build">
     <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(MSBuildThisFileDirectory)..\..\release" />
