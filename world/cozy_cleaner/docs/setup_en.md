@@ -56,7 +56,8 @@ automatically; install Rosetta first if macOS asks for it.
 
 ## Play
 
-1. Install the `.apworld` by double-clicking it (or place it in the Archipelago `custom_worlds` folder), then
+1. Install the `.apworld` by double-clicking it (or place it in the Archipelago `custom_worlds` folder; with the
+   macOS Archipelago app, place it in `~/Library/Application Support/Archipelago/worlds` instead), then
    generate a seed with `Cozy Cleaner` as the game (a template yaml is in the Archipelago Launcher's
    **Generate Template Options**).
 2. Open the **Archipelago Launcher**, start **Cozy Cleaner Client**, and connect to the server with your slot
